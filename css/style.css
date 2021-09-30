@@ -1,0 +1,75 @@
+h1,
+h2,
+h3 {
+  font-family: "Quicksand", sans-serif;
+}
+h2.units a {
+  text-decoration: none;
+}
+.dot {
+  border-bottom: 3px dashed #5d9cec;
+}
+
+input[type="search"] {
+  line-height: 5px;
+  padding: 5px 20px;
+  width: 50%;
+  border: 2px solid #000;
+  border-radius: 5px;
+  outline: 0;
+  border-right: none;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+button {
+  background: none;
+  border: none;
+}
+.input-group-text {
+  background-color: #fff;
+  border: 2px solid #000;
+  border-left: none;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+.submit {
+  background: none;
+  border: 1px solid #5d9cec;
+  padding: 7px 25px;
+  border-radius: 5px;
+}
+.submit:hover {
+  background-color: #5d9cec;
+  color: #fff;
+  cursor: pointer;
+}
+.pos {
+  position: relative;
+  left: 2.5%;
+}
+.line {
+  height: 3px;
+  background-color: #3498db;
+  margin-top: 15px;
+}
+.bold-degree {
+  font-weight: bold;
+}
+.five-days-icon {
+  width: 25%;
+}
+.city-weather {
+  margin-left: 40%;
+}
+.big-icon-weather {
+  width: 50%;
+}
+
+.details {
+  margin-left: 3%;
+}
+.img-datails {
+  margin-left: -15%;
+}
